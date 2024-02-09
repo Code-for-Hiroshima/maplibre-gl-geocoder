@@ -62,7 +62,8 @@
     "lodash.debounce": "^4.0.8",
     "subtag": "^0.5.0",
     "suggestions-list": "^0.0.2",
-    "xtend": "^4.0.2"
+    "xtend": "^4.0.2",
+    "events":"^3.3.0"
   },
   "lint-staged": {
     "*.js": [
